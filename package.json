@@ -1,0 +1,23 @@
+{
+  "name": "questions_project",
+  "version": "0.0.1",
+  "description": "Сайт с тестом на профориентацию",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedorchikthebest/questions_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedorchikthebest/questions_project/issues"
+  },
+  "homepage": "https://github.com/fedorchikthebest/questions_project#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
